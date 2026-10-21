@@ -1,7 +1,5 @@
+data/*.csv
+*.csv
 .ipynb_checkpoints/
 __pycache__/
-.env
-*.pyc
 .DS_Store
-.Rhistory
-.RData
